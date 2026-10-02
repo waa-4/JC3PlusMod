@@ -56,3 +56,8 @@ versions/
 ├── JC3-Plus-v0.02.zip
 ├── JC3-Plus-v0.03.zip
 └── ...
+```
+
+## Side Note
+
+As of now there wont be any versions public now, still starting the mod, stay tuned and keep Just Causing! :)
