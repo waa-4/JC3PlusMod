@@ -60,4 +60,6 @@ versions/
 
 ## Side Note
 
-As of now there wont be any versions public now, still starting the mod, stay tuned and keep Just Causing! :)
+There aren't any public versions yet since the mod is just getting started.
+
+Stay tuned, and keep Just Causing! :)
